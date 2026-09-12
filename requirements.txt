@@ -1,0 +1,7 @@
+flask
+ultralytics
+roboflow
+requests
+python-dotenv
+pillow
+werkzeug
