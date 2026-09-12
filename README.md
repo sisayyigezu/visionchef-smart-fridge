@@ -86,6 +86,7 @@ Place the final `best.pt` file at:
 
 ```text
 backend/runs/detect/train/weights/best.pt
+```
 
 ### 4. Frontend Setup
 
