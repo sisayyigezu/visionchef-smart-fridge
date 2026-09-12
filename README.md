@@ -79,11 +79,10 @@ SPOONACULAR_API_KEY=your_spoonacular_key_here
 ROBOFLOW_API_KEY=your_roboflow_key_here
 ```
 
-### 3. Model Weights (Crucial Step)
-
+### 3. Model Weights
+The custom-trained YOLO model weights are not included in this repository.
 
 Place the final `best.pt` file at:
-The custom-trained YOLO model weights are not included in this repository.
 
 ```text
 backend/runs/detect/train/weights/best.pt
