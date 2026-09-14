@@ -21,8 +21,6 @@ The UI is designed with a premium Samsung One UI aesthetic, featuring clean line
 📋 Detailed Recipe View
 <div align="center"> <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <div> <img src="./images/description.jpg" alt="Recipe Description" width="300"/> <p><em>Recipe details with nutrition information</em></p> </div> <div> <img src="./images/descriptionItem.jpg" alt="Recipe Instructions" width="300"/> <p><em>Recipe instructions and required ingredients</em></p> </div> </div> </div>
 
-VisionChef is an intelligent web application that helps you reduce food waste and cook creative meals. It uses AI object detection (YOLOv8) to identify ingredients in your fridge from a photo and suggests recipes based on what you have (via Spoonacular API).
-
 ## Prerequisites
 
 Before running the project, ensure you have the following installed:
